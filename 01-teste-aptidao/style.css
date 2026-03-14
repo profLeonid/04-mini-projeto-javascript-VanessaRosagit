@@ -109,6 +109,14 @@ button:hover {
   align-items: center;
   justify-content: center;
 }
+.resultado.apto {
+  background-color: #29e8852d;
+
+}
+
+.resultado.nao-apto{
+background-color:red
+}
 
 footer {
   display: flex;
