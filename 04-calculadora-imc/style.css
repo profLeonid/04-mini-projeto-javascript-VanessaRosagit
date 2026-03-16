@@ -123,3 +123,27 @@ footer p {
   text-align: center;
   padding: 1rem;
 }
+
+.abaixo {
+  background: #1e3a5f;
+}
+
+.normal {
+  background: #14532d;
+}
+
+.sobrepeso {
+  background: #713f12;
+}
+
+.obesidade1 {
+  background: #7f1d1d;
+}
+
+.obesidade2 {
+  background: #6b0f0f;
+}
+
+.obesidade3 {
+  background: #450a0a;
+}
